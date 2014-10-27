@@ -1,0 +1,15 @@
+{
+  "name": "locale",
+  "version": "0.0.1",
+  "description": "",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://joeddo@bitbucket.org/ddict/locale.git"
+  },
+  "author": "ddo <joeddo89@gmail.com> (http://ddo.me/)"
+}
