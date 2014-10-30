@@ -29,7 +29,6 @@ module.exports = {
     ko: {google: true, description: 'Korean'},
     lt: {google: true, description: 'Lithuanian'},
     lv: {google: true, description: 'Latvian'},
-    
     mr: {google: true, description: 'Marathi'},
     ms: {google: true, description: 'Malay'},
     nl: {google: true, description: 'Dutch'},
@@ -54,7 +53,7 @@ module.exports = {
     zh_TW: {google: true, description: 'Chinese (Taiwan)', to: 'zh-CN'},
 
     am: {description: 'Amharic'},
-    ml: {description: 'Malayalam'}, // did a file 
+    ml: {description: 'Malayalam'}, // did a file
     af: {description: 'Afrikaans'},
     sq: {description: 'Albanian'},
     hy: {description: 'Armenian'},
@@ -62,7 +61,6 @@ module.exports = {
     eu: {description: 'Basque'},
     be: {description: 'Belarusian'},
     bs: {description: 'Bosnian'},
-    ca: {description: 'Catalan'},
     ceb: {description: 'Cebuano'},
     eo: {description: 'Esperanto'},
     gl: {description: 'Galician'},
@@ -76,6 +74,7 @@ module.exports = {
     jw: {description: 'Javanese'},
     km: {description: 'Khmer'},
     lo: {description: 'Lao'},
+    la: {description: 'Latin'},
     mk: {description: 'Macedonian'},
     mt: {description: 'Maltese'},
     mi: {description: 'Maori'},
