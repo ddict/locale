@@ -31,6 +31,7 @@ module.exports = {
     lv: {google: true, description: 'Latvian'},
     mr: {google: true, description: 'Marathi'},
     ms: {google: true, description: 'Malay'},
+    ml: {google: true, description: 'Malayalam'},
     nl: {google: true, description: 'Dutch'},
     no: {google: true, description: 'Norwegian'},
     pl: {google: true, description: 'Polish'},
@@ -50,10 +51,9 @@ module.exports = {
     uk: {google: true, description: 'Ukrainian'},
     vi: {google: true, description: 'Vietnamese'},
     zh_CN: {google: true, description: 'Chinese (China)', to: 'zh-CN'},
-    zh_TW: {google: true, description: 'Chinese (Taiwan)', to: 'zh-CN'},
+    zh_TW: {google: true, description: 'Chinese (Taiwan)', to: 'zh-TW'},
 
     am: {description: 'Amharic'},
-    ml: {description: 'Malayalam'}, // did a file
     af: {description: 'Afrikaans'},
     sq: {description: 'Albanian'},
     hy: {description: 'Armenian'},
@@ -86,5 +86,15 @@ module.exports = {
     cy: {description: 'Welsh'},
     yi: {description: 'Yiddish'},
     yo: {description: 'Yoruba'},
-    zu: {description: 'Zulu '}
+    zu: {description: 'Zulu '},
+
+    ny: {description: 'Chichewa'},
+    kk: {description: 'Kazakh'},
+    mg: {description: 'Malagasy'},
+    my: {description: 'Myanmar (Burmese)'},
+    st: {description: 'Sesotho'},
+    si: {description: 'Sinhala'},
+    su: {description: 'Sundanese'},
+    tg: {description: 'Tajik'},
+    uz: {description: 'Uzbek'}
 };
